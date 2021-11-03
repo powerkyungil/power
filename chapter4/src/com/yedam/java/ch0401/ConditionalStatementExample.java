@@ -183,7 +183,7 @@ public class ConditionalStatementExample {
 		default :
 			System.out.println("300만원");
 		}
-		
+		/*
 		//문제4) 구구단을 출력하되 입력받은 단의 6번째 값을 출력하도록 구현하세요.
 		//예를 들어, 2단 일 경우엔 2 x 6 = 12
 		//출력문에는 변수사용을 하지 않습니다.
@@ -218,7 +218,7 @@ public class ConditionalStatementExample {
 		swich(score1/10) {
 			case 
 		}
-        		
+        */		
         		
         	
 	}
