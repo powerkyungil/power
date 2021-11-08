@@ -6,6 +6,7 @@ public class GreenCard implements Payment {
 	private int point;							//적립 포인트
 	private double pointRatio;					//포인트 적립율
 
+	
 	public GreenCard() {
 		this.grade = "SILVER";
 		this.point = 0;
